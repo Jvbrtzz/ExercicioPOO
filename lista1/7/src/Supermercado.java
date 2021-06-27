@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Vector;
 public class Supermercado {
     public static void main(String[] args){
-   System.out.println("Escolha o produto: ");
+    
     Scanner teclado = new Scanner(System.in);
     produto novoProduto =  new produto();
 
