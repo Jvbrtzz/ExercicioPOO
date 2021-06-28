@@ -5,7 +5,7 @@ public class Supermercado {
     
     Scanner teclado = new Scanner(System.in);
     produto novoProduto =  new produto();
-
+        
     cliente(novoProduto);
 
 }
