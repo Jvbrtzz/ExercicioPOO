@@ -12,6 +12,11 @@ public String getModelo() {
     
 
     } 
+    public String getPlaca() {
+        return this.placa;
+    
+
+    }     
 
 public void setPlaca(String placa){
     
