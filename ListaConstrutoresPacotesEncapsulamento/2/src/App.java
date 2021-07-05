@@ -12,8 +12,8 @@ public class App {
         
         System.out.println("-----------------------------------------------------------");
         System.out.println("Média.");
-        Turma novaTurma = new Turma();
-        mediaAluno(novaTurma);
+        Professor mediaTurma = new Professor();
+        mediaAluno(mediaTurma);
         System.out.println("-----------------------------------------------------------");
         InscDisciplina(novDisciplina);
 
@@ -58,7 +58,7 @@ public class App {
     
     }
 
-    static void mediaAluno(Turma novo){
+    static void mediaAluno(Professor novo){
         final int NUMERO_ALUNOS = 5;
         Scanner teclado = new Scanner(System.in);
         float[] notas = new float[NUMERO_ALUNOS];
