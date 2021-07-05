@@ -21,7 +21,7 @@ public Aluno(String nome, int idade){
 
     } 
 
-static void setHistorico(String historico){
+public void setHistorico(String historico){
     Vector materias = new Vector();
     Vector nota = new Vector();
     Scanner teclado =  new Scanner(System.in);
