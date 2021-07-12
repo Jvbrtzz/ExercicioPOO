@@ -13,7 +13,6 @@ public class Celular {
     
     System.out.println("-----------------------------------------------------");
     bateriaCarga(novaBateria);  
-    
     System.out.println("-----------------------------------------------------");
     bateriaCapacidade(novaBateria);  
     System.out.println("-----------------------------------------------------"); 

@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "ListaConstrutoresPacotesEncapsulamento/4/src",
         "ListaConstrutoresPacotesEncapsulamento/2/src",
-        "ListaConstrutoresPacotesEncapsulamento/4/src"
+        "ListaIntroducaoPOO/8/src"
     ]
 }
