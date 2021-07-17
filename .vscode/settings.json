@@ -1,7 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "ListaIntroducaoPOO/8/src",
+        "ListaHerançaePolimorfismo/5/src",
+        "ListaHerançaePolimorfismo/2/src",
+        "ListaHerançaePolimorfismo/1/src",
         "ListaConstrutoresPacotesEncapsulamento/4/src",
         "ListaConstrutoresPacotesEncapsulamento/2/src",
-        "ListaIntroducaoPOO/8/src"
+        "ListaHerançaePolimorfismo/6/src"
     ]
 }

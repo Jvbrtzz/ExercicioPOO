@@ -1,5 +1,5 @@
 
-public class Conversor {
+public class Conversao {
             public static double LitroParaCentimetroCubicos(double qtd) {
                 return qtd * 1000;
             }
