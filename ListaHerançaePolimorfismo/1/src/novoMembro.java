@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class novoMembro extends Pessoa {
+public class novoMembro extends Pessoas {
     protected String membro;
 
     public void novoFamilia(String nome, int idade, String pai, String mae){

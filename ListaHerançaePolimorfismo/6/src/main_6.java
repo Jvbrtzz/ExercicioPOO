@@ -1,4 +1,4 @@
-public class App {
+public class main_6 {
     public static void main(String[] args){
         
             Par par1 = new Par<Integer,Double>(1,56.89);
