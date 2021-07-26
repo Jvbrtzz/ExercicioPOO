@@ -3,11 +3,15 @@
         "ListaIntroducaoPOO/8/src",
         "ListaHerançaePolimorfismo/6/src",
         "ListaHerançaePolimorfismo/5/src",
+        "ListaHerançaePolimorfismo/4/src",
         "ListaHerançaePolimorfismo/3/src",
         "ListaHerançaePolimorfismo/2/src",
         "ListaHerançaePolimorfismo/1/src",
         "ListaConstrutoresPacotesEncapsulamento/4/src",
         "ListaConstrutoresPacotesEncapsulamento/2/src",
-        "ListaHerançaePolimorfismo/4/src"
+        "ListaClasseAbstrataInterface/4/src",
+        "ListaClasseAbstrataInterface/2/src",
+        "ListaClasseAbstrataInterface/1/src",
+        "ListaClasseAbstrataInterface/5/src"
     ]
 }

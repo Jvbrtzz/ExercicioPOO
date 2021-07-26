@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Circulo extends medidas {
     Scanner entrada = new Scanner(System.in);
-    double calcularArea (){
+    public double calcularArea (){
         
         area = 3.14*(raio*raio);
         
@@ -10,7 +10,7 @@ public class Circulo extends medidas {
     }
      
      
-    void imprimir(){
+    public void imprimir(){
         
         System.out.println("Área: "+calcularArea());
     }

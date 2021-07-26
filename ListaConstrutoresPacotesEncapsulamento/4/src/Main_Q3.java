@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main_3 {
+public class Main_Q3 {
     public static void main(String[] args){
     Scanner teclado = new Scanner(System.in);
     System.out.println("Qual o estilo de data preferida?");

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class retangulo extends medidas {
     Scanner entrada = new Scanner(System.in);
-    double calcularArea (){
+    public double calcularArea (){
         
         area = ladoMaior*lado;
         
@@ -10,7 +10,7 @@ public class retangulo extends medidas {
     }
      
      
-    void imprimir(){
+    public void imprimir(){
         
         System.out.println("Área: "+calcularArea());
     }
