@@ -8,4 +8,4 @@ public interface Registros {
     double getPrecoHora();
     int getHoras();
     int getQuantidade();
-}
+}   
