@@ -1,7 +1,5 @@
 public interface Registros {
     double totalizarReceita();
-
-    
     String getProduto();
     String getDescricao();
     double getPrecoUnitario();

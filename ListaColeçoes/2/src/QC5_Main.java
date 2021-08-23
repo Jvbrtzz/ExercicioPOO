@@ -6,6 +6,7 @@ public class QC5_Main {
         al.add("João");
         al.add("Victor");
         al.add("Bortoluzzi");
+        al.add("Bortoluzzi");
         
         System.out.println(al);
 
