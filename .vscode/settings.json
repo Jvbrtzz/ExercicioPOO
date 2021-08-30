@@ -1,5 +1,6 @@
 {
     "java.project.sourcePaths": [
+        "ListaThreads/2/src",
         "ListaIntroducaoPOO/8/src",
         "ListaHerançaePolimorfismo/6/src",
         "ListaHerançaePolimorfismo/5/src",
@@ -18,6 +19,7 @@
         "ListaClasseAbstrataInterface/4/src",
         "ListaClasseAbstrataInterface/2/src",
         "ListaClasseAbstrataInterface/1/src",
-        "ListaArquivos/2/src"
+        "ListaArquivos/2/src",
+        "ListaThreads/1/src"
     ]
 }
